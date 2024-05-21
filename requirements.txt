@@ -1,0 +1,10 @@
+pylabdevs-tspspi
+pyserial
+matplotlib
+numpy
+tensorflow
+scikit-learn
+seaborn
+pandas
+opencv-python
+Pillow
